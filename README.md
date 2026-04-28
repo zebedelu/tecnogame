@@ -56,6 +56,30 @@ O frontend do projeto foi desenvolvido a partir de outro projeto do github
 🔗 Base original: memory-game
 de https://github.com/isabellatressino/memory-game
 
+## Como executar
+
+### 1° passo
+Clonar o projeto
+```bash
+git clone https://github.com/zebedelu/TecnoGame.git
+cd TecnoGame
+```
+
+### 2° passo
+Executar o back-end
+```bash
+python index.py
+```
+
+### 3° passo
+Abrir o navegador no link http://127.0.0.1:5000
+```bash
+start http://127.0.0.1:5000
+```
+
+### 4° passo
+divirta-se!
+
 ## Contexto de Uso
 O projeto foi desenvolvido especificamente para o ambiente do evento TecnoEste 2026, sendo otimizado para
 - Execução local (sem dependência de internet)
