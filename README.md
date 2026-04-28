@@ -1,15 +1,20 @@
 # Tecnogame
 
+<p align="center">
+  <img src="https://img.shields.io/badge/-%20Instituto%20Federal%20Catarinense-006633?style=for-the-badge&logo=google-scholar&logoColor=white">
+</p>
+
 O Tecnogame é um jogo da memória interativo desenvolvido especialmente para os totens digitais do evento TecnoEste 2026, realizado no Instituto Federal Catarinense (IFC) – Campus Concórdia.
 
 O projeto tem como objetivo proporcionar uma experiência dinâmica, educativa e acessível ao público do evento, permitindo que visitantes interajam diretamente com a aplicação por meio de interfaces simples e intuitivas.
 
 ## Objetivo do Projeto
-##O sistema foi pensado para funcionar em totens interativos, ou seja, dispositivos de uso público com foco em
-Interface amigável e de fácil compreensão
-Resposta rápida e fluida
-Navegação simplificada (ideal para telas touchscreen)
-Engajamento do público durante o evento
+O sistema foi pensado para funcionar em totens interativos, ou seja, dispositivos de uso público com foco em
+- Interface amigável e de fácil compreensão
+- Resposta rápida e fluida
+- Navegação simplificada (ideal para telas touchscreen)
+- Engajamento do público durante o evento
+
 Além disso, o jogo incentiva a participação dos visitantes através de um sistema de pontuação (leaderboard), promovendo competição e interação.
 
 ## Funcionalidades
@@ -22,12 +27,15 @@ Além disso, o jogo incentiva a participação dos visitantes através de um sis
 - Tecnologias Utilizadas
 
 O projeto foi desenvolvido utilizando uma stack simples e eficiente
+
+## Stack
+
 ### Backend
 - Python
 - Flask
 ### Frontend
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 ### Persistência de dados
 - Biblioteca pickle (armazenamento local das pontuações)
